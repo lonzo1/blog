@@ -1,7 +1,6 @@
 ---
 layout: "post"
 date: "2020-06-07 12:10:00 +0800"
-author: "Lorenzo Iannuzzi"
 title: "Post Schedule"
 ---
 
@@ -19,5 +18,3 @@ discuss my learning habits and what I do to keep myself motivated to do work. I 
 also post some rants about programming.
 
 See you soon!
-
-\- lonzo
